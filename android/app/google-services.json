@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "538513074557",
+    "project_id": "online-election-system-7aa80",
+    "storage_bucket": "online-election-system-7aa80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538513074557:android:50d9951a9c7a1de4a60414",
+        "android_client_info": {
+          "package_name": "com.example.online_election_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538513074557-hud72i9f1q0lv0pf69o8rf90ipmldapn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0madeMpjBiWrcB5mMt0gTiPTESmwuwaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538513074557-hud72i9f1q0lv0pf69o8rf90ipmldapn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "538513074557-kj1ebeirq2rq4drh894kinmmr5dcj0bo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.onlineElectionSystem"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
